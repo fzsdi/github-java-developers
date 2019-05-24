@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="jake_wharton">Jake Wharton</string>
+    <string name="jack_wharton_github">https://github.com/JakeWharton</string>
+</resources>
